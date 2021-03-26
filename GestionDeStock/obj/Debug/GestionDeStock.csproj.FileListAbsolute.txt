@@ -1,0 +1,54 @@
+C:\Users\TPCDA\Desktop\olivier\Agile\geststock\GestionStock\GestionDeStock\bin\Debug\GestionDeStock.exe.config
+C:\Users\TPCDA\Desktop\olivier\Agile\geststock\GestionStock\GestionDeStock\bin\Debug\GestionDeStock.exe
+C:\Users\TPCDA\Desktop\olivier\Agile\geststock\GestionStock\GestionDeStock\bin\Debug\GestionDeStock.pdb
+C:\Users\TPCDA\Desktop\olivier\Agile\geststock\GestionStock\GestionDeStock\bin\Debug\MySql.Data.dll
+C:\Users\TPCDA\Desktop\olivier\Agile\geststock\GestionStock\GestionDeStock\bin\Debug\Google.Protobuf.dll
+C:\Users\TPCDA\Desktop\olivier\Agile\geststock\GestionStock\GestionDeStock\bin\Debug\Zstandard.Net.dll
+C:\Users\TPCDA\Desktop\olivier\Agile\geststock\GestionStock\GestionDeStock\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\TPCDA\Desktop\olivier\Agile\geststock\GestionStock\GestionDeStock\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\TPCDA\Desktop\olivier\Agile\geststock\GestionStock\GestionDeStock\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\TPCDA\Desktop\olivier\Agile\geststock\GestionStock\GestionDeStock\bin\Debug\Renci.SshNet.dll
+C:\Users\TPCDA\Desktop\olivier\Agile\geststock\GestionStock\GestionDeStock\bin\Debug\System.Buffers.dll
+C:\Users\TPCDA\Desktop\olivier\Agile\geststock\GestionStock\GestionDeStock\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\TPCDA\Desktop\olivier\Agile\geststock\GestionStock\GestionDeStock\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\TPCDA\Desktop\olivier\Agile\geststock\GestionStock\GestionDeStock\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\TPCDA\Desktop\olivier\Agile\geststock\GestionStock\GestionDeStock\bin\Debug\MySql.Data.xml
+C:\Users\TPCDA\Desktop\olivier\Agile\geststock\GestionStock\GestionDeStock\obj\Debug\GestionDeStock.csprojAssemblyReference.cache
+C:\Users\TPCDA\Desktop\olivier\Agile\geststock\GestionStock\GestionDeStock\obj\Debug\GestionDeStock.exe.config
+C:\Users\TPCDA\Desktop\olivier\Agile\geststock\GestionStock\GestionDeStock\obj\Debug\GestionDeStock.Connexion.resources
+C:\Users\TPCDA\Desktop\olivier\Agile\geststock\GestionStock\GestionDeStock\obj\Debug\GestionDeStock.Properties.Resources.resources
+C:\Users\TPCDA\Desktop\olivier\Agile\geststock\GestionStock\GestionDeStock\obj\Debug\GestionDeStock.csproj.GenerateResource.cache
+C:\Users\TPCDA\Desktop\olivier\Agile\geststock\GestionStock\GestionDeStock\obj\Debug\GestionDeStock.csproj.CoreCompileInputs.cache
+C:\Users\TPCDA\Desktop\olivier\Agile\geststock\GestionStock\GestionDeStock\obj\Debug\GestionDeStock.csproj.CopyComplete
+C:\Users\TPCDA\Desktop\olivier\Agile\geststock\GestionStock\GestionDeStock\obj\Debug\GestionDeStock.exe
+C:\Users\TPCDA\Desktop\olivier\Agile\geststock\GestionStock\GestionDeStock\obj\Debug\GestionDeStock.pdb
+C:\Users\TPCDA\Desktop\olivier\Agile\geststock\GestionStock\GestionDeStock\obj\Debug\GestionDeStock.FormAjoutFournisseur.resources
+C:\Users\TPCDA\Desktop\olivier\Agile\geststock\GestionStock\GestionDeStock\obj\Debug\GestionDeStock.TableauStock.resources
+C:\Users\TPCDA\Desktop\olivier\Agile\geststock\GestionStock\GestionDeStock\obj\Debug\GestionDeStock.TableauFournisseurs.resources
+C:\Users\Virus\Documents\Stage TP CDA\Agile\GestStock\GestionDeStock\bin\Debug\GestionDeStock.exe.config
+C:\Users\Virus\Documents\Stage TP CDA\Agile\GestStock\GestionDeStock\bin\Debug\GestionDeStock.exe
+C:\Users\Virus\Documents\Stage TP CDA\Agile\GestStock\GestionDeStock\bin\Debug\GestionDeStock.pdb
+C:\Users\Virus\Documents\Stage TP CDA\Agile\GestStock\GestionDeStock\bin\Debug\Google.Protobuf.dll
+C:\Users\Virus\Documents\Stage TP CDA\Agile\GestStock\GestionDeStock\bin\Debug\Zstandard.Net.dll
+C:\Users\Virus\Documents\Stage TP CDA\Agile\GestStock\GestionDeStock\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Virus\Documents\Stage TP CDA\Agile\GestStock\GestionDeStock\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Virus\Documents\Stage TP CDA\Agile\GestStock\GestionDeStock\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Virus\Documents\Stage TP CDA\Agile\GestStock\GestionDeStock\bin\Debug\Renci.SshNet.dll
+C:\Users\Virus\Documents\Stage TP CDA\Agile\GestStock\GestionDeStock\bin\Debug\System.Buffers.dll
+C:\Users\Virus\Documents\Stage TP CDA\Agile\GestStock\GestionDeStock\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Virus\Documents\Stage TP CDA\Agile\GestStock\GestionDeStock\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Virus\Documents\Stage TP CDA\Agile\GestStock\GestionDeStock\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Virus\Documents\Stage TP CDA\Agile\GestStock\GestionDeStock\bin\Debug\MySql.Data.xml
+C:\Users\Virus\Documents\Stage TP CDA\Agile\GestStock\GestionDeStock\obj\Debug\GestionDeStock.csprojAssemblyReference.cache
+C:\Users\Virus\Documents\Stage TP CDA\Agile\GestStock\GestionDeStock\obj\Debug\GestionDeStock.exe.config
+C:\Users\Virus\Documents\Stage TP CDA\Agile\GestStock\GestionDeStock\obj\Debug\GestionDeStock.AjoutArticles.resources
+C:\Users\Virus\Documents\Stage TP CDA\Agile\GestStock\GestionDeStock\obj\Debug\GestionDeStock.FormAjoutFournisseur.resources
+C:\Users\Virus\Documents\Stage TP CDA\Agile\GestStock\GestionDeStock\obj\Debug\GestionDeStock.Connexion.resources
+C:\Users\Virus\Documents\Stage TP CDA\Agile\GestStock\GestionDeStock\obj\Debug\GestionDeStock.Properties.Resources.resources
+C:\Users\Virus\Documents\Stage TP CDA\Agile\GestStock\GestionDeStock\obj\Debug\GestionDeStock.TableauFournisseurs.resources
+C:\Users\Virus\Documents\Stage TP CDA\Agile\GestStock\GestionDeStock\obj\Debug\GestionDeStock.TableauStock.resources
+C:\Users\Virus\Documents\Stage TP CDA\Agile\GestStock\GestionDeStock\obj\Debug\GestionDeStock.csproj.GenerateResource.cache
+C:\Users\Virus\Documents\Stage TP CDA\Agile\GestStock\GestionDeStock\obj\Debug\GestionDeStock.csproj.CoreCompileInputs.cache
+C:\Users\Virus\Documents\Stage TP CDA\Agile\GestStock\GestionDeStock\obj\Debug\GestionDeStock.csproj.CopyComplete
+C:\Users\Virus\Documents\Stage TP CDA\Agile\GestStock\GestionDeStock\obj\Debug\GestionDeStock.exe
+C:\Users\Virus\Documents\Stage TP CDA\Agile\GestStock\GestionDeStock\obj\Debug\GestionDeStock.pdb
